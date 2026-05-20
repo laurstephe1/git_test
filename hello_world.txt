@@ -1,0 +1,2 @@
+"Hello Odin!" 
+Learning about Git and so much more using odin.
